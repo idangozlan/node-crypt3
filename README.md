@@ -1,3 +1,5 @@
+This is a fork of https://github.com/sendanor/node-crypt3, since that is an unmaintained project.
+
 # node-crypt3
 
 [crypt3link]: https://en.wikipedia.org/wiki/Crypt_(C) "crypt() in C"
